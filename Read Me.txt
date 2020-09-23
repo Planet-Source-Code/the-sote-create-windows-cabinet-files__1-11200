@@ -1,0 +1,25 @@
+				[SoTe's]
+		$$$$$$$$$$$$$:                      ..  
+		:9"$!!YY$$$$$$        .,aa,.  aaii$$$$
+		 $$$: ``""!!Y$      a$$$"'`"$a "$$$$$$:
+		 :$$$:    .a$""a$$ :$$$:    :$: :$$$$$$
+		  $$$$:"" $$    $$: "$$$a   . aa""''
+		  :$$$$: :$:    $$$    "$$$a "$$:
+		   $$$$$: $$   J$$$:    :$$$: :$$
+		   :$$$$$: §$a$",a$$   a$$$" a$$$:
+		    $$Ytt''       "  """''   $?/''
+			[Read Me Generator Ver 1]
+		----------------------------------------
+
+	    File Name: [Win-CAB.exe]
+	      Version: [2.03.0007]
+	       Author: [The SoTe (Thee_SoTe@Hotmail.com)]
+	         Size: [34.5 KB]
+  	   Add. Files: [MAKECAB.EXE]
+		       [X]-Required [ ]-Not Required
+		       -----------------------------
+		       [COMDLG32.OCX - Put in System Directory]
+		       [X]-Required [ ]-Not Required
+	   Other Info: [Source is included]
+
+		----------------------------------------
